@@ -1,0 +1,1 @@
+all= ["zespolone1","zespolone2"]
